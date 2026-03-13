@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Repaso_1.repaso
+namespace Ejercicio.EjercicioBasicos
 {
 
     internal class ejercicio_2

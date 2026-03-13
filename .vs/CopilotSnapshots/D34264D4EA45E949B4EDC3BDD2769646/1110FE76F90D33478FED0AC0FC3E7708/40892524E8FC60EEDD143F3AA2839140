@@ -1,0 +1,96 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using EjercicioBasicos.Ejercicio1;
+using EjercicioBasicos.ejercicio_2;
+using EjercicioBasicos.ejercicio_3;
+using EjercicioBasicos.ejercicio_4;
+using EjercicioBasicos.ejercicio_5;
+
+namespace Ejercicio
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // Menu principal que llama a las clases hijas
+            System.Console.OutputEncoding = System.Text.Encoding.UTF8;
+            bool salir = false;
+            while (!salir)
+            {
+                Console.Clear();
+                Console.WriteLine("=== MENÚ PRINCIPAL ===");
+                Console.WriteLine("1. Calculadora de propina (CalculadoraPropina)");
+                Console.WriteLine("2. Ejercicio 2");
+                Console.WriteLine("3. Ejercicio 3");
+                Console.WriteLine("4. Ejercicio 4");
+                Console.WriteLine("5. Ejercicio 5");
+                Console.WriteLine("0. Salir");
+                Console.Write("Seleccione una opción: ");
+
+                string opcion = Console.ReadLine();
+                Console.WriteLine();
+
+                switch (opcion)
+                {
+                    case "1":
+                        // CalculadoraPropina está en el namespace Ejercicio.EjercicioBasicos
+                        Console.Write("Ingrese el total de la cuenta: ");
+                        if (double.TryParse(Console.ReadLine(), out double total))
+                        {
+                            Console.Write("Ingrese el porcentaje de propina (ej. 10): ");
+                            if (int.TryParse(Console.ReadLine(), out int porcentaje))
+                            {
+                                var calc = new Ejercicio.EjercicioBasicos.CalculadoraPropina(total, porcentaje);
+                                calc.CalcularYMostrar();
+                            }
+                            else
+                            {
+                                Console.WriteLine("Porcentaje inválido.");
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("Total inválido.");
+                        }
+                        break;
+
+                    case "2":
+                        // ejercicio_2 está en Repaso_1.repaso
+                        global::Repaso_1.repaso.ejercicio_2.ejecutar();
+                        break;
+
+                    case "3":
+                        // nota: el método en la clase se llama 'ejercutar' (ortografía del archivo)
+                        global::Repaso_1.repaso.ejercicio_3.ejercutar();
+                        break;
+
+                    case "4":
+                        global::Repaso_1.repaso.ejercicio_4.ejercutar();
+                        break;
+
+                    case "5":
+                        global::Repaso_1.repaso.ejercicio_5.ejecutar();
+                        break;
+
+                    case "0":
+                        salir = true;
+                        break;
+
+                    default:
+                        Console.WriteLine("Opción no válida.");
+                        break;
+                }
+
+                if (!salir)
+                {
+                    Console.WriteLine();
+                    Console.WriteLine("Presione una tecla para continuar...");
+                    Console.ReadKey();
+                }
+            }
+        }
+    }
+}

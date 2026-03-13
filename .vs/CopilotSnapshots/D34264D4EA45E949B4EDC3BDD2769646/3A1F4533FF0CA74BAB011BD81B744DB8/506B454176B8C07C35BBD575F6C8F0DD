@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Ejercicio.EjercicioBasicos
+namespace Repaso_1.repaso
 {
     public class ejercicio_3
     {
@@ -31,8 +31,8 @@ namespace Ejercicio.EjercicioBasicos
 
                 Console.WriteLine("\nLo sentimos, el aforo está completo.");
                 Console.WriteLine($"Para que este grupo pueda entrar, deben salir primero {personasQueDebenSalir} personas.");
-                Console.WriteLine("Por favor, esperen en la fila.");
-            }
+                Console.WriteLine("Por favor, esperen en la fila.")
+                   }
         }
     }
 }
