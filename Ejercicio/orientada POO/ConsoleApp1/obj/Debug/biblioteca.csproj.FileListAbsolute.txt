@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\ConsoleApp1\obj\Debug\biblioteca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\ConsoleApp1\obj\Debug\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Concesionario_Vehículos\obj\Debug\Concesionario_Vehículos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Concesionario_Vehículos\obj\Debug\Concesionario_Vehículos.csproj.CoreCompileInputs.cache

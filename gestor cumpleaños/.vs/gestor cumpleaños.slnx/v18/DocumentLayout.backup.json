@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\programacion-lll\\gestor cumplea\u00F1os\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63AF4096-EB9C-498D-94C8-456C0CC621D4}|gestor cumplea\u00F1os.csproj|c:\\users\\user\\desktop\\programacion-lll\\gestor cumplea\u00F1os\\amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AF4096-EB9C-498D-94C8-456C0CC621D4}|gestor cumplea\u00F1os.csproj|solutionrelative:amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AF4096-EB9C-498D-94C8-456C0CC621D4}|gestor cumplea\u00F1os.csproj|c:\\users\\user\\desktop\\programacion-lll\\gestor cumplea\u00F1os\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AF4096-EB9C-498D-94C8-456C0CC621D4}|gestor cumplea\u00F1os.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "amigo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\gestor cumplea\u00F1os\\amigo.cs",
+              "RelativeDocumentMoniker": "amigo.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\gestor cumplea\u00F1os\\amigo.cs",
+              "RelativeToolTip": "amigo.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:45:11.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\gestor cumplea\u00F1os\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\gestor cumplea\u00F1os\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:44:28.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

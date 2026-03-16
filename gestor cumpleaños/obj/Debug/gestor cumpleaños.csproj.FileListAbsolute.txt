@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\programacion-lll\gestor cumpleaños\bin\Debug\gestor cumpleaños.exe.config
+C:\Users\User\Desktop\programacion-lll\gestor cumpleaños\bin\Debug\gestor cumpleaños.exe
+C:\Users\User\Desktop\programacion-lll\gestor cumpleaños\bin\Debug\gestor cumpleaños.pdb
+C:\Users\User\Desktop\programacion-lll\gestor cumpleaños\obj\Debug\gestor cumpleaños.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\gestor cumpleaños\obj\Debug\gestor cumpleaños.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\gestor cumpleaños\obj\Debug\gestor cumpleaños.exe
+C:\Users\User\Desktop\programacion-lll\gestor cumpleaños\obj\Debug\gestor cumpleaños.pdb
