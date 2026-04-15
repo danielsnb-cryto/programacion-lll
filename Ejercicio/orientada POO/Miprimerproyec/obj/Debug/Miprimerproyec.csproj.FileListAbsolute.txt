@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Miprimerproyec\bin\Debug\Miprimerproyec.exe.config
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Miprimerproyec\bin\Debug\Miprimerproyec.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Miprimerproyec\bin\Debug\Miprimerproyec.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Miprimerproyec\obj\Debug\Miprimerproyec.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Miprimerproyec\obj\Debug\Miprimerproyec.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Miprimerproyec\obj\Debug\Miprimerproyec.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\Miprimerproyec\obj\Debug\Miprimerproyec.pdb

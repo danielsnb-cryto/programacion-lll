@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\AuntoYa\bin\Debug\AuntoYa.exe.config
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\AuntoYa\bin\Debug\AuntoYa.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\AuntoYa\bin\Debug\AuntoYa.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\AuntoYa\obj\Debug\AuntoYa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\AuntoYa\obj\Debug\AuntoYa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\AuntoYa\obj\Debug\AuntoYa.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\orientada POO\AuntoYa\obj\Debug\AuntoYa.pdb
