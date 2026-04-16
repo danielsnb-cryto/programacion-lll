@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\bin\Debug\Ejercicio3_Validacion.exe.config
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\bin\Debug\Ejercicio3_Validacion.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\bin\Debug\Ejercicio3_Validacion.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\obj\Debug\Ejercicio3_Validacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\obj\Debug\Ejercicio3_Validacion.Form1.resources
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\obj\Debug\Ejercicio3_Validacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\obj\Debug\Ejercicio3_Validacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\obj\Debug\Ejercicio3_Validacion.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio3_Validacion\obj\Debug\Ejercicio3_Validacion.pdb
