@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\bin\Debug\Ejercicio5_Maquetacion.exe.config
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\bin\Debug\Ejercicio5_Maquetacion.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\bin\Debug\Ejercicio5_Maquetacion.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\obj\Debug\Ejercicio5_Maquetacion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\obj\Debug\Ejercicio5_Maquetacion.Form1.resources
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\obj\Debug\Ejercicio5_Maquetacion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\obj\Debug\Ejercicio5_Maquetacion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\obj\Debug\Ejercicio5_Maquetacion.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\Ejercicio5_Maquetacion\obj\Debug\Ejercicio5_Maquetacion.pdb

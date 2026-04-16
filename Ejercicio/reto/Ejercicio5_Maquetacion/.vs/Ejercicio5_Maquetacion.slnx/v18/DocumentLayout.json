@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\Ejercicio5_Maquetacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD3C52C-E8B9-4252-9494-322463EDC309}|Ejercicio5_Maquetacion.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\ejercicio5_maquetacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5AD3C52C-E8B9-4252-9494-322463EDC309}|Ejercicio5_Maquetacion.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD3C52C-E8B9-4252-9494-322463EDC309}|Ejercicio5_Maquetacion.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\ejercicio5_maquetacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD3C52C-E8B9-4252-9494-322463EDC309}|Ejercicio5_Maquetacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\Ejercicio5_Maquetacion\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\Ejercicio5_Maquetacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:39:16.576Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\Ejercicio5_Maquetacion\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\Ejercicio5_Maquetacion\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T04:39:06.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
