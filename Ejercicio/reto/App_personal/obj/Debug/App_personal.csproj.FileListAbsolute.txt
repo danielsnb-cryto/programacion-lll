@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\bin\Debug\App_personal.exe.config
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\bin\Debug\App_personal.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\bin\Debug\App_personal.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.Menu.resources
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.Properties.Resources.resources
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.Productos.resources
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.RegistrarMotos.resources
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\App_personal\obj\Debug\App_personal.RegistrarVentas.resources
