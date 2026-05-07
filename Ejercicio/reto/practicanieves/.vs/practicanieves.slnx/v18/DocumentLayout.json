@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\practicanieves\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\practicanieves\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\practicanieves\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\practicanieves\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\practicanieves\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\practicanieves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD98EE0-3872-421A-A61C-7F1959EAB936}|practicanieves.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAlwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:43:03.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:38:28.46Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\menu.cs",
+              "RelativeToolTip": "menu.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vxwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:32:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:30:31.522Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\menu.cs",
+              "RelativeDocumentMoniker": "menu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:28:58.626Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\practicanieves\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T20:28:03.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

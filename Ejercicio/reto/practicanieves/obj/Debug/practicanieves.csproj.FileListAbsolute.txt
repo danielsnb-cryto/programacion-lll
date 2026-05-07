@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\bin\Debug\practicanieves.exe.config
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\bin\Debug\practicanieves.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\bin\Debug\practicanieves.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\obj\Debug\practicanieves.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\obj\Debug\practicanieves.menu.resources
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\obj\Debug\practicanieves.csproj.GenerateResource.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\obj\Debug\practicanieves.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\obj\Debug\practicanieves.exe
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\obj\Debug\practicanieves.pdb
+C:\Users\User\Desktop\programacion-lll\Ejercicio\reto\practicanieves\obj\Debug\practicanieves.Form1.resources

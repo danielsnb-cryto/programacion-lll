@@ -2,7 +2,6 @@
 
 namespace App_personal.clases
 {
-    // Representa un producto en tu inventario
     public class Producto
     {
         public string Codigo { get; set; }
@@ -12,7 +11,6 @@ namespace App_personal.clases
         public int StockInicial { get; set; }
     }
 
-    // Representa una entrada o salida de mercancía
     public class Movimiento
     {
         public DateTime Fecha { get; set; }

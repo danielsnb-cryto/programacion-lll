@@ -17,6 +17,8 @@ namespace App_personal.clases
             VerificarYCrear("productos.csv", "Codigo;Nombre;Categoria;Precio;StockIni");
             VerificarYCrear("entradas.csv", "Fecha;Codigo;Cantidad;Observacion");
             VerificarYCrear("salidas.csv", "Fecha;Codigo;Cantidad;Observacion");
+            // Archivo para registrar motos ingresadas (detalle de registro)
+            VerificarYCrear("motos_registradas.csv", "Fecha;Codigo;Cantidad;Observacion");
         }
 
         private static void VerificarYCrear(string archivo, string cabecera)

@@ -48,16 +48,22 @@
     <Compile Include="clases\ArchivoHelper.cs" />
     <Compile Include="clases\Datos.cs" />
     <Compile Include="clases\Modelos.cs" />
-    <Compile Include="Menu.cs">
+    <Compile Include="Interfaz\Informe.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Menu.Designer.cs">
+    <Compile Include="Interfaz\Informe.Designer.cs">
+      <DependentUpon>Informe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interfaz\Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interfaz\Menu.Designer.cs">
       <DependentUpon>Menu.cs</DependentUpon>
     </Compile>
-    <Compile Include="Productos.cs">
+    <Compile Include="Interfaz\Productos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Productos.Designer.cs">
+    <Compile Include="Interfaz\Productos.Designer.cs">
       <DependentUpon>Productos.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
@@ -67,16 +73,16 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="RegistrarMotos.cs">
+    <Compile Include="Interfaz\RegistrarMotos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RegistrarMotos.Designer.cs">
+    <Compile Include="Interfaz\RegistrarMotos.Designer.cs">
       <DependentUpon>RegistrarMotos.cs</DependentUpon>
     </Compile>
-    <Compile Include="RegistrarVentas.cs">
+    <Compile Include="Interfaz\RegistrarVentas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RegistrarVentas.Designer.cs">
+    <Compile Include="Interfaz\RegistrarVentas.Designer.cs">
       <DependentUpon>RegistrarVentas.cs</DependentUpon>
     </Compile>
   </ItemGroup>
@@ -84,20 +90,20 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Menu.resx">
+    <EmbeddedResource Include="Interfaz\Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Productos.resx">
+    <EmbeddedResource Include="Interfaz\Productos.resx">
       <DependentUpon>Productos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="RegistrarMotos.resx">
+    <EmbeddedResource Include="Interfaz\RegistrarMotos.resx">
       <DependentUpon>RegistrarMotos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="RegistrarVentas.resx">
+    <EmbeddedResource Include="Interfaz\RegistrarVentas.resx">
       <DependentUpon>RegistrarVentas.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>

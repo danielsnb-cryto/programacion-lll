@@ -3,44 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\interfaz\\registrarmotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:interfaz\\registrarmotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\registrarmotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:registrarmotos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:clases\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\clases\\archivohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:clases\\archivohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\interfaz\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:interfaz\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\interfaz\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:interfaz\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\registrarventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:registrarventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\interfaz\\informe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:interfaz\\informe.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\interfaz\\informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:interfaz\\informe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:clases\\datos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|c:\\users\\user\\desktop\\programacion-lll\\ejercicio\\reto\\app_personal\\clases\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:clases\\modelos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\interfaz\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BD35F74-48AD-424C-9FAA-6BE4AC23DC71}|App_personal.csproj|solutionrelative:interfaz\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,133 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegistrarVentas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\RegistrarVentas.cs",
-              "RelativeDocumentMoniker": "RegistrarVentas.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\RegistrarVentas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "RegistrarVentas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T02:06:14.37Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArchivoHelper.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\ArchivoHelper.cs",
-              "RelativeDocumentMoniker": "clases\\ArchivoHelper.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\ArchivoHelper.cs",
-              "RelativeToolTip": "clases\\ArchivoHelper.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T01:26:27.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegistrarMotos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\RegistrarMotos.cs",
-              "RelativeDocumentMoniker": "RegistrarMotos.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\RegistrarMotos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "RegistrarMotos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T01:06:07.346Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Menu.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Menu.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Menu.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T23:46:09.144Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Menu.cs",
-              "RelativeDocumentMoniker": "Menu.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Menu.cs",
-              "RelativeToolTip": "Menu.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwCIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:22:04.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Productos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Productos.cs",
-              "RelativeDocumentMoniker": "Productos.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Productos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Productos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:21:37.528Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Productos.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Productos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Productos.cs",
+              "RelativeToolTip": "Interfaz\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:27:19.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Datos.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\Datos.cs",
               "RelativeDocumentMoniker": "clases\\Datos.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\Datos.cs",
               "RelativeToolTip": "clases\\Datos.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAuwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T01:20:17.524Z",
+              "WhenOpened": "2026-05-04T14:27:19.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Informe.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Informe.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Informe.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Informe.cs",
+              "RelativeToolTip": "Interfaz\\Informe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:27:19.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Informe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Informe.Designer.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Informe.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Informe.Designer.cs",
+              "RelativeToolTip": "Interfaz\\Informe.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:27:18.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarMotos.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\RegistrarMotos.cs",
+              "RelativeDocumentMoniker": "Interfaz\\RegistrarMotos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\RegistrarMotos.cs",
+              "RelativeToolTip": "Interfaz\\RegistrarMotos.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:25:21.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Productos.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Productos.cs",
-              "RelativeDocumentMoniker": "Productos.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Productos.cs",
-              "RelativeToolTip": "Productos.cs",
-              "ViewState": "AgIAACIAAAAANDMzM3MgwB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T00:54:45.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-23T23:39:52.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Modelos.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\Modelos.cs",
               "RelativeDocumentMoniker": "clases\\Modelos.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\clases\\Modelos.cs",
               "RelativeToolTip": "clases\\Modelos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T01:25:48.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T14:24:41.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Productos.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Productos.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Productos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz\\Productos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:24:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Menu.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Menu.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\programacion-lll\\Ejercicio\\reto\\App_personal\\Interfaz\\Menu.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Interfaz\\Menu.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T14:08:51.965Z"
             }
           ]
         }

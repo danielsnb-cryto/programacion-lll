@@ -15,7 +15,8 @@ namespace App_personal
 
             try
             {
-
+                // Asegurarse de que el helper de archivos cree la carpeta antes de usarla
+                App_personal.clases.ArchivoHelper.InicializarDirectorio();
                 Datos.InicializarSistema();
             }
             catch (Exception ex)
